@@ -25,5 +25,6 @@ Seaborn
 Tableau
 
 
-### NOTA:
-Se recomienda leer primero la memoria para entender los notebooks
+
+
+#### NOTA: Se recomienda leer primero la memoria para entender los notebooks
