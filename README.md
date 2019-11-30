@@ -1,6 +1,6 @@
 # TFM-Fireman-Interventions
 
-El propósito de este TFM es comprobar donde sería la próxima intervencion de los bomberos en la cidudad de Nueva York.
+El propósito de este TFM es comprobar donde estaría localizada la próxima intervencion de los bomberos en la ciudad de Nueva York.
 
 ## Datos
 
@@ -14,9 +14,7 @@ Python 3
 
 ## Librerias Python
 
-Zipfile
 Csv
-GoogleDriveDownloader
 Pandas
 Numpy
 Matplotlib
