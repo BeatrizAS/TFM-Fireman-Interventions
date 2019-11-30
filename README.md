@@ -12,19 +12,19 @@ Ambos archivos están compartidos a través de Google Drive
 
 ## Lenguaje
 
-Python 3
+- Python 3
 
 ## Librerias Python
 
-Csv
-Pandas
-Numpy
-Matplotlib
-Seaborn
+- Csv
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
 
 ## Visualización
 
-Tableau
+- Tableau
 
 
 
