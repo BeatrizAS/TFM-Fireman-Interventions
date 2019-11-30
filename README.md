@@ -8,7 +8,7 @@ Los datos se han obtenido de: https://opendata.cityofnewyork.us/ y http://www.po
 
 El primer dataset titulado "Incidentes_Responded_to_by_Fire_Companies", es el principal y el segundo, "Fire_Boxes" se ha utilizado para obtener los puntos de longitud y latitud
 
-Ambos archivos están compartidos via Google Drive
+Ambos archivos están compartidos a través de Google Drive
 
 ## Lenguaje
 
